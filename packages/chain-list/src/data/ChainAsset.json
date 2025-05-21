@@ -16231,5 +16231,19 @@
     "multiChainAsset": null,
     "hasValue": true,
     "icon": "https://dev.sw-chain-list-assets.pages.dev/assets/chain-assets/polkadot-native-dot.png"
+  },
+  "selendra-NATIVE-SEL": {
+     "originChain": "selendra",
+     "slug": "selendra-NATIVE-SEL",
+     "name": "Selendra",
+     "symbol": "SEL",
+     "decimals": 42,
+     "priceId": "selendra",
+     "minAmount": "0",
+     "assetType": "NATIVE",
+     "metadata": null,
+     "multiChainAsset": "SEL-Selendra",
+     "hasValue": false,
+     "icon": "https://dev.sw-chain-list-assets.pages.dev/assets/chain-assets/selendra-native-sel.png"
   }
 }

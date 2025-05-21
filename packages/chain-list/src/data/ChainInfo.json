@@ -12180,5 +12180,34 @@
     "bitcoinInfo": null,
     "tonInfo": null,
     "cardanoInfo": null
+  },
+  "selendra": {
+     "slug": "selendra",
+     "name": "Selendra",
+     "isTestnet": false,
+     "chainStatus": "ACTIVE",
+     "icon": "https://dev.sw-chain-list-assets.pages.dev/assets/chains/selendra.png",
+     "providers": {
+       "RPC": "wss://rpc.selendra.org"
+     },
+     "evmInfo": {
+       "evmChainId": 1961,
+       "blockExplorer": "https://explorer.selendra.org",
+       "existentialDeposit": "0",
+       "symbol": "SEL",
+       "decimals": 18,
+       "supportSmartContract": [
+         "ERC20",
+         "ERC721"
+       ],
+       "abiExplorer": "https://explorer.selendra.org"
+     },
+     "substrateInfo": null,
+     "extraInfo": {
+       "subscanSlug": null,
+       "chainBalanceSlug": "selendra"
+     },
+     "bitcoinInfo": null,
+     "tonInfo": null
   }
 }
